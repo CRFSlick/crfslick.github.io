@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-	<title>CRFSlick&#x27;s Blog</title>
-	<subtitle>My blog site</subtitle>
+	<title>CRFSlick</title>
+	<subtitle>Blog posts</subtitle>
 	<link href="https://crfslick.github.io/blog/feed.xml" rel="self" type="application/atom+xml"/>
     <link href="https://crfslick.github.io/blog/"/>
 	<updated>2024-02-11T00:00:00+00:00</updated>
