@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://crfslick.github.io/</loc>
+    </url>
+    <url>
+        <loc>https://crfslick.github.io/about/</loc>
+    </url>
+    <url>
+        <loc>https://crfslick.github.io/blog/</loc>
+    </url>
+    <url>
+        <loc>https://crfslick.github.io/blog/hello-world/</loc>
+        <lastmod>2024-02-11</lastmod>
+    </url>
+    <url>
+        <loc>https://crfslick.github.io/categories/</loc>
+    </url>
+    <url>
+        <loc>https://crfslick.github.io/categories/posts/</loc>
+    </url>
+    <url>
+        <loc>https://crfslick.github.io/tags/</loc>
+    </url>
+    <url>
+        <loc>https://crfslick.github.io/tags/ssg/</loc>
+    </url>
+    <url>
+        <loc>https://crfslick.github.io/tags/zola/</loc>
+    </url>
+</urlset>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title>CRFSlick&#x27;s Blog</title>
+	<subtitle>My blog site</subtitle>
+	<link href="https://crfslick.github.io/blog/feed.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://crfslick.github.io/blog/"/>
+	<updated>2024-02-11T00:00:00+00:00</updated>
+	<id>https://crfslick.github.io/blog/feed.xml</id>
+	<entry xml:lang="en">
+		<title>Hello, world!</title>
+		<published>2024-02-11T00:00:00+00:00</published>
+		<updated>2024-02-11T00:00:00+00:00</updated>
+		<link href="https://crfslick.github.io/blog/hello-world/" type="text/html"/>
+		<id>https://crfslick.github.io/blog/hello-world/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;hello-world.png&quot; alt=&quot;Hello World!&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+</feed>
